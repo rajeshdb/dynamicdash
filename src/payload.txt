@@ -1,0 +1,12 @@
+{"request":"call  pet findbyStatus  as available and then filter on photoUrls attribute not equal to literal 'string' and then display that in table UI."
+}
+
+{"request":"post a new pet to the store use variable pet_detail for body."
+}
+
+
+
+
+
+{"request":"what is in the open api specification in the prompt"
+}
