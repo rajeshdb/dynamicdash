@@ -18,7 +18,7 @@
           {
             "name": "petId",
             "in": "path",
-            "description": "ID of pet to update",
+            "description": "AIzaSyAXUrfB6900pKHdkwavIGytiKn5ZQc8PBA",
             "required": true,
             "type": "integer",
             "format": "int64"
@@ -145,4 +145,5 @@
       }
     }
 }
+
 }
