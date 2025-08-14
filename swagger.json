@@ -18,7 +18,7 @@
           {
             "name": "petId",
             "in": "path",
-            "description": "AIzaSyAXUrfB6900pKHdkwavIGytiKn5ZQc8PBA",
+            "description": "",
             "required": true,
             "type": "integer",
             "format": "int64"
@@ -147,3 +147,4 @@
 }
 
 }
+
